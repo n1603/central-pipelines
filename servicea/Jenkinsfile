@@ -7,7 +7,7 @@ pipeline {
                 // Checkout code from a version control system
                 echo 'Checking out code...'
                 // For example, using Git
-                git 'https://github.com/your-repo/hello-world.git'
+                git 'https://github.com/n1603/proda-repo.git'
             }
         }
 
